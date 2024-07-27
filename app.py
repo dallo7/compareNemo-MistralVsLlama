@@ -13,6 +13,8 @@ feedback1 = pd.read_csv("feedback1.csv", dtype=object)
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.VAPOR], suppress_callback_exceptions=True)
 
+server = app.server
+
 app.layout = dbc.Container(
     [
         dbc.Row([
