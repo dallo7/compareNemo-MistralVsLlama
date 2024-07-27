@@ -1,7 +1,6 @@
 # LLM Comparison App
 
-[![I Love Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
+[![I Love Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)                    
 [![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/YOUR-REPOSITORY)](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY) 
 [![Machine Learning](https://img.shields.io/badge/Topic-Machine%20Learning-orange)](https://en.wikipedia.org/wiki/Machine_learning)
 [![LLMs](https://img.shields.io/badge/Topic-LLMs-green)](https://en.wikipedia.org/wiki/Large_language_model)
