@@ -1,5 +1,6 @@
 dash==2.9.3
 dash==2.17.1
+Flask
 gunicorn
 dash_bootstrap_components==1.4.2
 dash_bootstrap_components==1.6.0
