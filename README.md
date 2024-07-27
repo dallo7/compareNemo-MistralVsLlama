@@ -2,7 +2,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 [![Dash](https://img.shields.io/badge/Dash-v2-orange)](https://dash.plotly.com/)
-
 [![I Love Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)                    
 [![Machine Learning](https://img.shields.io/badge/Topic-Machine%20Learning-orange)](https://en.wikipedia.org/wiki/Machine_learning)
 [![LLMs](https://img.shields.io/badge/Topic-LLMs-green)](https://en.wikipedia.org/wiki/Large_language_model)
