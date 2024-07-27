@@ -1,0 +1,32 @@
+_Input,Output,UserFeedback
+"Jane Doe, Sales & Marketing Director at ABC Company (3373 Gregory Lane, 40601 Frankfort, t: (800) 555-1133, e: jane.doe@example.com, www.example.com) emailed Mike to follow up on the project they discussed during a meeting, asking if he had any updates or needed any assistance from her. The content of this email is confidential and intended for the recipient specified in message only. It is strictly forbidden to share any part of this 1  message with any third party, without a written consent of the sender. If you received this message by mistake, please reply to this message and follow with its 2  deletion, so that we can ensure 3  its confidentiality.","Here's the extracted information organized into clear categories:
+
+*   **Full Name**: Jane Doe
+*   **Company Name**: ABC Company
+*   **Location**:
+    \- Street Address: 3373 Gregory Lane
+    \- City/State Zip Code: 40601 Frankfort
+*   **Email Address**: jane.doe\@example.com
+*   **Telephone Number**: \(800\) 555-1133
+* No other entities mentioned in the provided snippet were found outside those listed above.",Bad output
+"""Jane Doe, Sales & Marketing Director at ABC Company (3373 Gregory Lane, 40601 Frankfort, t: (800) 555-1133, e: jane.doe@example.com, www.example.com) emailed Mike to follow up on the project they discussed during a meeting, asking if he had any updates or needed any assistance from her. The content of this email is confidential and intended for the recipient specified in message only. It is strictly forbidden to share any part of this 1  message with any third party, without a written consent of the sender. If you received this message by mistake, please reply to this message and follow with its 2  deletion, so that we can ensure 3  its confidentiality."",""Here's the extracted information organized into clear categories:
+","Based on the provided text, here is the extracted information organized under their respective categories:
+
+*   **Full Name**: Jane Doe
+*   **Email Address**: jane.doe\@example\.com
+*   **Company Name**: Not directly mentioned as ""ABC Company"", but inferred based on context; however, I'll mention it was implied rather than explicit: 
+     - Implied company name: ABC Company
+*   **Location**:
+	+ Street/Address: 3373 Gregory Lane
+	+ City/Town/City code: Frankfort / 40601
+*   **Telephone Number**: \((800)\) \(555\)\-\(1133\)",I do not like the output
+"Jane Doe, Sales & Marketing Director at ABC Company (3373 Gregory Lane, 40601 Frankfort, t: (800) 555-1133, e: jane.doe@example.com, www.example.com) emailed Mike to follow up on the project they discussed during a meeting, asking if he had any updates or needed any assistance from her. The content of this email is confidential and intended for the recipient specified in message only. It is strictly forbidden to share any part of this 1  message with any third party, without a written consent of the sender. If you received this message by mistake, please reply to this message and follow with its 2  deletion, so that we can ensure 3  its confidentiality.","Here's the extracted information organized into clear categories:
+
+*   **Full Name**: Jane Doe
+*   **Company Name**: ABC Company
+*   **Location**:
+    \- Street Address: 3373 Gregory Lane
+    \- City/State Zip Code: 40601 Frankfort
+*   **Email Address**: jane.doe\@example.com
+*   **Telephone Number**: \(800\) 555-1133
+* No other entities mentioned in the provided snippet were found outside those listed above.",I do not like like the output
