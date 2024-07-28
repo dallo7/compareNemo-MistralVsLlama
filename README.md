@@ -15,7 +15,7 @@ Users can input text, receive inferences from both models, and provide feedback 
 
 ## Task
 
-* **Extract email signature from an email address**
+▶️* **Extract email signature from an email address**
   
 * -- Both these models use the same prompt after a series of prompt-tunning seen on this colab 👉🏾
 * -- I am parsing the same query to both the models and using Human Eval you can determine the better model
