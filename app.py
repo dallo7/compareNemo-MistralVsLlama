@@ -39,7 +39,7 @@ app.layout = dbc.Container(
                     "font-family": "Times Roman",
                     "text-decoration": "underline",
                     "text-align": "center",
-                    "color": "black",
+                    "color": "white",
                 },
             )],
             style={"margin": "20px", "text-align": "center"},
@@ -57,7 +57,6 @@ app.layout = dbc.Container(
                             'height': 300,
                             'borderRadius': '10px',
                             'padding': '20px',
-                            "color": "black"
                         }
                     ),
                     html.Br(),
@@ -73,7 +72,6 @@ app.layout = dbc.Container(
                                         'height': 300,
                                         'borderRadius': '10px',
                                         'padding': '20px',
-                                        "color": "black"
                                     }
                                 ),
                             ], width=8, style={
@@ -195,7 +193,6 @@ app.layout = dbc.Container(
                             'height': 300,
                             'borderRadius': '10px',
                             'padding': '20px',
-                            "color": "black"
                         }
                     ),
                     html.Br(),
@@ -210,7 +207,6 @@ app.layout = dbc.Container(
                                         'height': 300,
                                         'borderRadius': '10px',
                                         'padding': '20px',
-                                        "color": "black"
                                     }
                                 ),
                             ], style={
