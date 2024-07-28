@@ -17,10 +17,10 @@ Users can input text, receive inferences from both models, and provide feedback 
 
 ▶️* **Extract email signature from an email address**
   
-* -- Both these models use the same prompt after a series of prompt-tunning seen on this colab 👉🏾
-* -- I am parsing the same query to both the models and using Human Eval you can determine the better model
-* -- Also, I had to create a wrapper for the llama 3.1 8B to handle the model response
-* -- Use the custom Evaluation datasets to test the models performance.
+  -- Both these models use the same prompt after a series of prompt-tunning seen on this colab 👉🏾
+  -- I am parsing the same query to both the models and using Human Eval you can determine the better model
+  -- Also, I had to create a wrapper for the llama 3.1 8B to handle the model response
+  -- Use the custom Evaluation datasets to test the models performance.
 
 * Check out how the Demo works here‼️ https://comparenemo-mistralvsllama-1.onrender.com/ 
 
