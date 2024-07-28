@@ -88,11 +88,11 @@ Website: www.acmecorp.com
     python app.py
     ```
 4. Usage
-* **Launch the App: Open a web browser and navigate to ```bash http://127.0.0.1:5050/``` (or the address shown in your terminal when running the app).
-* **Enter Text: Type or paste your text into the input fields for each model.
-* **Click "Inference": Get responses from both LLMs.
-* **Provide Feedback: Use the "Like" and "Dislike" buttons to rate the outputs.
-* **Export Data: (Optional) Download the feedback data in Excel format.
+* ** Launch the App: Open a web browser and navigate to ```bash http://127.0.0.1:5050/``` (or the address shown in your terminal when running the app).
+* ** Enter Text: Type or paste your text into the input fields for each model.
+* ** Click "Inference": Get responses from both LLMs.
+* ** Provide Feedback: Use the "Like" and "Dislike" buttons to rate the outputs.
+* ** Export Data: (Optional) Download the feedback data in Excel format.
   
 6. License
 This project is licensed under the MIT License.   
