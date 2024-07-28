@@ -97,8 +97,5 @@ Website: www.acmecorp.com
 6. License
 This project is licensed under the MIT License.
 
-- `dallo7` with your GitHub username.
-- `https://github.com/dallo7/compareNemo-MistralVsLlama` with the name of your repository.
-
 - A `LICENSE` file (MIT License is recommended for open-source projects).
 - A `requirements.txt` file listing your project's dependencies.
