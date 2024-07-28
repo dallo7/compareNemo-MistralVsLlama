@@ -46,14 +46,16 @@ Website: www.acmecorp.com
 
 ```
 
-```bash
+
 ## Sample Output
 
-* **Full Name: John Smith                                                                                                     
-* **Email: john.smith@acmecorp.com 
-* **Company Name: Acme Corporation
-* **Location: 123 Main Street, Anytown, CA 12345
-* **Telephone Number: (555) 555-1212 
+```bash
+
+**Full Name: John Smith                                                                                                     
+**Email: john.smith@acmecorp.com 
+**Company Name: Acme Corporation
+**Location: 123 Main Street, Anytown, CA 12345
+**Telephone Number: (555) 555-1212 
 ```
 
 ## Features
