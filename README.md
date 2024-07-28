@@ -13,11 +13,11 @@ This Dash application provides a side-by-side comparison of two Large Language M
 
 Users can input text, receive inferences from both models, and provide feedback to help improve their performance.
 
-## TasK
+## Task
 
 * **Extract email signature from an email address**
 
-Check out how the Demo works here‼️ https://comparenemo-mistralvsllama-1.onrender.com/ 
+* Check out how the Demo works here‼️ https://comparenemo-mistralvsllama-1.onrender.com/ 
 
 ## Sample Input
 
