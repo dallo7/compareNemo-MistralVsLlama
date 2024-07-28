@@ -22,7 +22,7 @@ Users can input text, receive inferences from both models, and provide feedback 
    * -- Also, I had to create a wrapper for the llama 3.1 8B to handle the model response
    * -- Use the custom Evaluation datasets to test the models performance 👉🏾 https://github.com/dallo7/compareNemo-MistralVsLlama/blob/70abf364d8e42618ff4e3ca2a6f5dc4b0830dfa0/Victor%20Email.pdf
 
-* Check out how the Demo works here‼️ https://comparenemo-mistralvsllama-1.onrender.com/ 
+* Check out the Demo Hosted here‼️ https://comparenemo-mistralvsllama-1.onrender.com/ 
 
 ## Sample Input
 
