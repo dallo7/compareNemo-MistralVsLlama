@@ -24,7 +24,7 @@ app.layout = dbc.Container(
                     "font-family": "Times Roman",
                     "text-decoration": "underline",
                     "text-align": "center",
-                    "color": "white",
+                    "color": "black",
                 },
             )],
             style={"margin": "20px", "text-align": "center"},
@@ -39,7 +39,7 @@ app.layout = dbc.Container(
                     "font-family": "Times Roman",
                     "text-decoration": "underline",
                     "text-align": "center",
-                    "color": "white",
+                    "color": "black",
                 },
             )],
             style={"margin": "20px", "text-align": "center"},
@@ -235,7 +235,7 @@ app.layout = dbc.Container(
                                 'borderRadius': '10px',
                                 'padding': '10px',
                                 'backgroundColor': '#4CAF50',
-                                'color': 'white'
+                                'color': 'black'
                             }
                         ),
                         html.Button(
@@ -247,7 +247,7 @@ app.layout = dbc.Container(
                                 'borderRadius': '10px',
                                 'padding': '10px',
                                 'backgroundColor': '#FF5733',
-                                'color': 'white'
+                                'color': 'black'
                             }
                         )
                     ], style={'display': 'flex', 'justify-content': 'space-between'})
