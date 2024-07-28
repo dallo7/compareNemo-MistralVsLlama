@@ -95,7 +95,5 @@ Website: www.acmecorp.com
 *  Export Data: (Optional) Download the feedback data in Excel format.
   
 6. License
-This project is licensed under the MIT License.
-
-- A `LICENSE` file (MIT License is recommended for open-source projects).
-- A `requirements.txt` file listing your project's dependencies.
+This project is licensed under the MIT License.                    
+  
