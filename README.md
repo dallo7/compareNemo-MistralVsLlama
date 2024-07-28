@@ -13,7 +13,38 @@ This Dash application provides a side-by-side comparison of two Large Language M
 
 Users can input text, receive inferences from both models, and provide feedback to help improve their performance.
 
+## TasK
+* **Extract email signature from an email address
+
 Check out how the Demo works here‼️ https://comparenemo-mistralvsllama-1.onrender.com/ 
+
+## sample Input
+
+Test Case 1: Simple Email with Full Signature
+Subject: Meeting follow-up
+
+Hi Sarah,
+
+I hope this email finds you well. I wanted to check in on your thoughts regarding the new marketing campaign. Please let me know if you have any questions or concerns.
+
+Best,
+John Smith
+Marketing Manager
+Acme Corporation
+123 Main Street
+Anytown, CA 12345
+Phone: (555) 555-1212
+Email: john.smith@acmecorp.com
+Website: www.acmecorp.com
+
+## Sample Output
+
+•	Full Name: John Smith 
+•	Email: john.smith@acmecorp.com 
+•	Company Name: Acme Corporation
+•	Location: 123 Main Street, Anytown, CA 12345
+•	Telephone Number: (555) 555-1212 
+
 
 ## Features
 
