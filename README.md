@@ -26,6 +26,7 @@ Users can input text, receive inferences from both models, and provide feedback 
 
 ## Sample Input
 
+```bash
 Test Case 1: Simple Email with Full Signature
 Subject: Meeting follow-up
 
@@ -43,6 +44,9 @@ Phone: (555) 555-1212
 Email: john.smith@acmecorp.com
 Website: www.acmecorp.com
 
+```
+
+```bash
 ## Sample Output
 
 * **Full Name: John Smith                                                                                                     
@@ -50,7 +54,7 @@ Website: www.acmecorp.com
 * **Company Name: Acme Corporation
 * **Location: 123 Main Street, Anytown, CA 12345
 * **Telephone Number: (555) 555-1212 
-
+```
 
 ## Features
 
