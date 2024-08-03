@@ -11,6 +11,11 @@ This Dash application provides a side-by-side comparison of two Large Language M
 * **Llama-3.1-8B-Instruct**
 * **Mistral-Nemo**
 
+![Dental Diagnosis Demo Video](https://github.com/dallo7/compareNemo-MistralVsLlama/blob/afd340e8657f0f6b1fc582dad6f4fb641621a810/rlhf.png)
+
+![Dental Diagnosis Demo Video](https://github.com/dallo7/compareNemo-MistralVsLlama/blob/afd340e8657f0f6b1fc582dad6f4fb641621a810/Prof.png)
+
+
 Users can input text, receive inferences from both models, and provide feedback to help improve their performance.
 
 ## Task
